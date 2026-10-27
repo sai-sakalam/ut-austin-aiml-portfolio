@@ -1,0 +1,25 @@
+# Data and large files are kept locally, not pushed (see each project's data/README.md)
+**/data/*
+!**/data/README.md
+
+# Models and artifacts
+*.h5
+*.keras
+*.pkl
+*.joblib
+*.gguf
+*.npy
+chroma*/
+backend_files/
+frontend_files/
+
+# Secrets
+.env
+*.env
+
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+.DS_Store

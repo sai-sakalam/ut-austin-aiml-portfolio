@@ -1,0 +1,12 @@
+numpy==2.0.2
+pandas==2.2.2
+scikit-learn==1.6.1
+matplotlib
+seaborn
+joblib==1.4.2
+requests
+huggingface_hub==0.34.0
+flask
+gunicorn
+streamlit
+jupyter
